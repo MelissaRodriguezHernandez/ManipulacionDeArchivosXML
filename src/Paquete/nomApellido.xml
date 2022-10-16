@@ -1,0 +1,9 @@
+<?xml version="1.1" encoding="UTF-8" standalone="no"?>
+<institut>
+    <empleat id="1">
+        <nom>Mely</nom>
+        <llinatget1>Rodriguez</llinatget1>
+        <llinatge2>Hernandez</llinatge2>
+        <telefon>1234567</telefon>
+    </empleat>
+</institut>
